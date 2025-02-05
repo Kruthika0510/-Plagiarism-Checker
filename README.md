@@ -22,8 +22,8 @@ spacy
 scikit-learn
 
 Usage
-Load and Preprocess Data:
-Use pandas to load text data, clean it with nltk/spacy, and convert it into numerical representations using TF-IDF or BERT embeddings.
+Load and Preprocess Data(tokenisation):
+Use pandas to load text data, clean  it with nltk/spacy, and convert it into numerical representations using TF-IDF or BERT embeddings.
 Train the Model: Apply XGBoost, SVM, or deep learning models (BERT/LSTM) to learn patterns of paraphrased and plagiarized text.
 Detect Plagiarism: Compare input text with stored documents using cosine similarity or fuzzy matching to identify similarities.
 
