@@ -1,6 +1,7 @@
 Plagiarism Detection Project 
 
- 📌 Overview
+Overview
+
 This project focuses on detecting plagiarism between text pairs using the BLEU similarity method. It analyzes sentence similarity and classifies whether a given text pair is plagiarized.
 
 Features
