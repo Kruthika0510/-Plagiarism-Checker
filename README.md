@@ -12,4 +12,4 @@ Features
 
 Dataset
 - The dataset consists of sentence pairs with a **jpwahle/machine-paraphrase-dataset** indicating plagiarism.
-- Columns: id, sentence1, sentence2, label. can i add only so much
+- Columns: 
