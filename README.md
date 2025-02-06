@@ -11,7 +11,7 @@ Features
 - Supports thresholding for classification.
 
 Dataset
-- The dataset consists of sentence pairs with a **PAWS(Paraphrase Adversaries from Word Scrambling)** indicating plagiarism.
+- The dataset consists of sentence pairs with a **PAWS  (Paraphrase Adversaries from Word Scrambling)** indicating plagiarism.
 - Columns:id,sentence1,sentence2,label 
 
 Libraries Required:
