@@ -22,9 +22,7 @@ spacy
 scikit-learn
 
 Methodology:    
-Preprocessing Data ( Cleaning and Tokenization)   
-
-   
+Preprocessing Data ( Cleaning and Tokenization)    
    Compute BLEU Score
     
     Train the model
