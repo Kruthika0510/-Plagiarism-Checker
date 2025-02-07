@@ -14,7 +14,7 @@ Dataset
 - The dataset consists of sentence pairs with a **PAWS  (Paraphrase Adversaries from Word Scrambling)** indicating plagiarism.
 - Columns:id,sentence1,sentence2,label 
 
-Libraries Required:
+Libraries Required:   
 pandas   
 numpy  
 nltk   
