@@ -21,6 +21,13 @@ nltk
 spacy   
 scikit-learn
 
+Methodology:
+Preprocessing Data ( Cleaning and Tokenization)
+Compute BLEU Score
+Train the model
+Compare with Threshold value
+Checking for Plagiarism Detection
+
 Usage
 Load and Preprocess Data(tokenisation):
 Use pandas to load text data, clean  it with nltk/spacy, and convert it into numerical representations using TF-IDF or BERT embeddings.
