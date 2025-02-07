@@ -21,7 +21,7 @@ nltk
 spacy   
 scikit-learn
 
-Methodology:
+Methodology:    
 Preprocessing Data ( Cleaning and Tokenization)   
 
    
