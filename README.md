@@ -15,10 +15,10 @@ Dataset
 - Columns:id,sentence1,sentence2,label 
 
 Libraries Required:
-pandas
-numpy
-nltk
-spacy
+pandas   
+numpy  
+nltk   
+spacy   
 scikit-learn
 
 Usage
