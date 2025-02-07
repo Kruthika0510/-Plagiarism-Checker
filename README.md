@@ -23,7 +23,7 @@ scikit-learn
 
 Methodology:    
 Preprocessing Data ( Cleaning and Tokenization)    
-   Compute BLEU Score
+   Compute BLEU Score    
    Train the model
     
     Compare with Threshold value
