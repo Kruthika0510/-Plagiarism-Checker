@@ -22,11 +22,16 @@ spacy
 scikit-learn
 
 Methodology:
-Preprocessing Data ( Cleaning and Tokenization)
-Compute BLEU Score
-Train the model
-Compare with Threshold value
-Checking for Plagiarism Detection
+Preprocessing Data ( Cleaning and Tokenization)   
+
+   
+   Compute BLEU Score
+    
+    Train the model
+    
+    Compare with Threshold value
+    
+    Checking for Plagiarism Detection
 
 Usage
 Load and Preprocess Data(tokenisation):
